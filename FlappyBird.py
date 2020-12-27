@@ -1,5 +1,5 @@
 import turtle
-from freegames import vector
+from freegames import vector # pip install freegames
 from random import randint
 
 bird = vector(-100, 0)
